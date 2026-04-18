@@ -2,6 +2,9 @@
 
 #### Simple CRUD application built with Vanilla JavaScript and Bootstrap.
 
+### Live View
+https://crud-users-vanillajs.netlify.app/
+
 ### Features
 - View users
 - Create user
